@@ -1,0 +1,44 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "montserrat", sans-serif;
+    background-color: #000000;
+}
+
+#header-img{
+    height: auto;
+    max-width: 100%;
+    margin-bottom: 0px;
+}
+
+#title{
+    text-align: center;
+    font-size: 70px;
+    margin-top: -17px;
+    color: #F7F7F8;
+}
+
+#image{
+    display: block;
+    height: auto;
+    max-width: 2%;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+p{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-top: 3%;
+    color: #F7F7F8;
+    font-size: 20px;
+}
+
+#tribute-info{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
